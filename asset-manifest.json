@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRM-Frontend/static/css/main.1518ee1d.css",
+    "main.js": "/CRM-Frontend/static/js/main.c1cfdd12.js",
+    "static/media/crm.jpg": "/CRM-Frontend/static/media/crm.f97e7a3a49b8e28f0f34.jpg",
+    "static/media/maleavatar.jpg": "/CRM-Frontend/static/media/maleavatar.d306a93921658f688a94.jpg",
+    "index.html": "/CRM-Frontend/index.html",
+    "main.1518ee1d.css.map": "/CRM-Frontend/static/css/main.1518ee1d.css.map",
+    "main.c1cfdd12.js.map": "/CRM-Frontend/static/js/main.c1cfdd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1518ee1d.css",
+    "static/js/main.c1cfdd12.js"
+  ]
+}
